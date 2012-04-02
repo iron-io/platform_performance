@@ -27,3 +27,12 @@
 -   Push app - 'cctrlapp APP_NAME/DEP_NAME push'
 -   Deploy app - 'cctrlapp APP_NAME/DEP_NAME deploy'
 -   Open your app url in browser (you should see smth like this http://iron2.cloudcontrolled.com/)
+
+###Heroku
+-   Clone this repo 'git clone https://github.com/iron-io/platform_performance.git'
+-   Set proper credentials in config.ini (you could get token and project_id from https://hud.iron.io/)
+-   Create Heroku app - 'heroku create'
+-   Push Heroku app - 'git push heroku master'
+-   Open your app url in browser (you should see smth like this http://evening-flower-2993.herokuapp.com/)
+
+
